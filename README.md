@@ -33,3 +33,4 @@ Launcher for the PREDATORS DayZ project.
 
 - РџРѕСЃР»РµРґРЅРёР№ СЂРµР»РёР·: https://github.com/morda-mir/Predators_launcher_release/releases/latest
 - Р’СЃРµ СЂРµР»РёР·С‹: https://github.com/morda-mir/Predators_launcher_release/releases
+
