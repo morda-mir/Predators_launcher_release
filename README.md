@@ -1,4 +1,4 @@
-﻿<p align="center">
+<p align="center">
   <img src="assets/logo.png" alt="PREDATORS Launcher" width="220" />
 </p>
 
@@ -7,13 +7,13 @@
 Launcher for the PREDATORS DayZ project.
 
 <!-- RELEASE_BLOCK_START -->
-## РЎРєР°С‡Р°С‚СЊ
+## Скачать
 
-РђРєС‚СѓР°Р»СЊРЅР°СЏ РІРµСЂСЃРёСЏ: v1.0.0
+Актуальная версия: v1.0.0
 
-[РЎРєР°С‡Р°С‚СЊ PREDATORS Launcher](https://github.com/morda-mir/Predators_launcher_release/releases/latest)
+[Скачать PREDATORS Launcher](https://github.com/morda-mir/Predators_launcher_release/releases/latest)
 
-Р¤Р°Р№Р» СѓСЃС‚Р°РЅРѕРІС‰РёРєР°: PREDATORS-Launcher-Setup-v1.0.0.exe
+Файл установщика: PREDATORS-Launcher-Setup-v1.0.0.exe
 <!-- RELEASE_BLOCK_END -->
 
 ## РўСЂРµР±РѕРІР°РЅРёСЏ
@@ -33,4 +33,5 @@ Launcher for the PREDATORS DayZ project.
 
 - РџРѕСЃР»РµРґРЅРёР№ СЂРµР»РёР·: https://github.com/morda-mir/Predators_launcher_release/releases/latest
 - Р’СЃРµ СЂРµР»РёР·С‹: https://github.com/morda-mir/Predators_launcher_release/releases
+
 
