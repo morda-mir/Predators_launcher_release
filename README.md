@@ -4,7 +4,7 @@
 
 # PREDATORS Launcher
 
-Launcher for the PREDATORS DayZ project.
+Лаунчер для проекта PREDATORS DayZ.
 
 <!-- RELEASE_BLOCK_START -->
 ## Скачать
@@ -16,22 +16,20 @@ Launcher for the PREDATORS DayZ project.
 Файл установщика: PREDATORS-Launcher-Setup-v1.0.0.exe
 <!-- RELEASE_BLOCK_END -->
 
-## РўСЂРµР±РѕРІР°РЅРёСЏ
+## Требования
 
 - Windows 10/11 x64
 - Steam
 - DayZ
 
-## РЈСЃС‚Р°РЅРѕРІРєР°
+## Установка
 
-1. РћС‚РєСЂРѕР№С‚Рµ СЃС‚СЂР°РЅРёС†Сѓ РїРѕСЃР»РµРґРЅРµРіРѕ СЂРµР»РёР·Р°: https://github.com/morda-mir/Predators_launcher_release/releases/latest
-2. РЎРєР°С‡Р°Р№С‚Рµ PREDATORS-Launcher-Setup-v1.0.0.exe.
-3. Р—Р°РїСѓСЃС‚РёС‚Рµ СѓСЃС‚Р°РЅРѕРІС‰РёРє Рё Р·Р°РІРµСЂС€РёС‚Рµ СѓСЃС‚Р°РЅРѕРІРєСѓ.
-4. РЈР±РµРґРёС‚РµСЃСЊ, С‡С‚Рѕ Steam Рё DayZ СѓСЃС‚Р°РЅРѕРІР»РµРЅС‹, Р·Р°С‚РµРј РѕС‚РєСЂРѕР№С‚Рµ Р»Р°СѓРЅС‡РµСЂ.
+1. Откройте страницу последнего релиза: https://github.com/morda-mir/Predators_launcher_release/releases/latest
+2. Скачайте `PREDATORS-Launcher-Setup-v1.0.0.exe`.
+3. Запустите установщик и завершите установку.
+4. Убедитесь, что Steam и DayZ установлены, затем откройте лаунчер.
 
 ## Releases
 
-- РџРѕСЃР»РµРґРЅРёР№ СЂРµР»РёР·: https://github.com/morda-mir/Predators_launcher_release/releases/latest
-- Р’СЃРµ СЂРµР»РёР·С‹: https://github.com/morda-mir/Predators_launcher_release/releases
-
-
+- Последний релиз: https://github.com/morda-mir/Predators_launcher_release/releases/latest
+- Все релизы: https://github.com/morda-mir/Predators_launcher_release/releases
