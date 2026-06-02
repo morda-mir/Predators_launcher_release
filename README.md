@@ -36,3 +36,4 @@
 - [&#1055;&#1086;&#1089;&#1083;&#1077;&#1076;&#1085;&#1080;&#1081; &#1088;&#1077;&#1083;&#1080;&#1079;](https://github.com/morda-mir/Predators_launcher_release/releases/latest)
 - [&#1042;&#1089;&#1077; &#1088;&#1077;&#1083;&#1080;&#1079;&#1099;](https://github.com/morda-mir/Predators_launcher_release/releases)
 
+
