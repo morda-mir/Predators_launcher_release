@@ -1,4 +1,6 @@
-﻿<!-- Add release logo later: assets/logo.png -->
+﻿<p align="center">
+  <img src="assets/logo.png" alt="PREDATORS Launcher" width="220" />
+</p>
 
 # PREDATORS Launcher
 
@@ -31,4 +33,3 @@ Launcher for the PREDATORS DayZ project.
 
 - РџРѕСЃР»РµРґРЅРёР№ СЂРµР»РёР·: https://github.com/morda-mir/Predators_launcher_release/releases/latest
 - Р’СЃРµ СЂРµР»РёР·С‹: https://github.com/morda-mir/Predators_launcher_release/releases
-
